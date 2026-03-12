@@ -1,5 +1,7 @@
 def hello_world():
     print("Hello world!")
-    print("Another print") #added comment
+    print("Changed print message") #added comment
+    print("Added Hello world!")
+    
 
 hello_world()
